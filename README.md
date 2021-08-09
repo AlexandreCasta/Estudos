@@ -1,2 +1,2 @@
 # Estudos
-# Repositório de estudos e apostilas sobre Banco de Dados
+## Repositório de estudos e apostilas sobre Banco de Dados
